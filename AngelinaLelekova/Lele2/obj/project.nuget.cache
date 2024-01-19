@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "txFmtknj0x3UWkNekytjl7WYnRqrDc6Pw34YbnfM2hL6NE+yXrFgYPN/LfvgwXq4cISPGduo5vm/DVJ+U+vceg==",
+  "success": true,
+  "projectFilePath": "/Users/nikolajlelekov/Documents/GitHub/AngelinaLelekova/Lele2/Lele2.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.23/microsoft.netcore.app.host.osx-arm64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
